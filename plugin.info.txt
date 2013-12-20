@@ -1,0 +1,7 @@
+base   authexternal
+author Pras Velagapudi
+email  pkv@cs.cmu.edu
+date   2013-12-20
+name   authexternal plugin
+desc   Authentication using external credentials from a web server.
+url    http://personalrobotics.ri.cmu.edu/
